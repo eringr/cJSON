@@ -57,6 +57,7 @@
 #endif
 
 #include "cJSON.h"
+#include "libc_fixups.h"
 
 /* define our own boolean type */
 #ifdef true
